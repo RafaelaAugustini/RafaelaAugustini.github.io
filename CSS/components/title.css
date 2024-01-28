@@ -1,0 +1,28 @@
+h1 {
+
+    display: inline-flex;
+    font-family: "Playfair Display";
+    font-size: 40px;
+    align-items: center;
+    color: #FBE4D8;
+    text-shadow: 2px 2px #000;
+    padding-left: 20px;
+}
+
+h2 {
+
+    font-family: "Playfair Display";
+    font-size: 40px;
+    text-shadow: 2px 2px 0px #000;
+    color: #FBE4D8;
+
+}
+
+h3 {
+
+    font-family: "Playfair Display";
+    font-size: 30px;
+    color: #FBE4D8;
+    text-shadow: 2px 2px #000;
+
+}
