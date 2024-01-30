@@ -1,5 +1,22 @@
-body, h1, h2, h3 {
+body {
+
+    font-family: "Playfair Display";
+
+}
+
+
+body,
+h1,
+h2,
+h3 {
 
     margin: 0;
+
+}
+
+button {
+
+    margin: 0px;
+    font-family: inherit;
 
 }

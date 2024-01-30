@@ -1,0 +1,22 @@
+.action {
+
+    display: inline-flex;
+    align-items: center;
+    color:#000;
+    font-size: 18px;
+    font-family: "Playfair Display";
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 30px;
+
+}
+
+.action::before {
+
+    content: "";
+    background-color: #FBE4D8;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+
+}
