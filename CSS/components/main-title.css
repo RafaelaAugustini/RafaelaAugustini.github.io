@@ -1,15 +1,15 @@
-.title {
+.main-title {
 
-    font-family: "Playfair Display";
+    font-family: "Fira Code";
     font-size: 40px;
     text-shadow: 2px 2px 0px #000;
-    color: #bba8ff;
+    color: #F25A70;
 
 }
 
-.title.-second {
+.main-title.-second {
 
-    color: #bba8ff;
+    color: #FFF;
     text-shadow: none;
     text-align: center;
 
